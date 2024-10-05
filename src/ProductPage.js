@@ -26,7 +26,7 @@ function ProductPage() {
       id:4,
       name:"Desk Clock",
       image:"https://i.etsystatic.com/36161039/r/il/325a36/3985686645/il_794xN.3985686645_l5j7.jpg",
-      price: "Ksh 2499"
+      price: "Ksh 2599"
     },
     {
       id:5,
