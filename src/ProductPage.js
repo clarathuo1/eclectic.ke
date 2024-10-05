@@ -66,7 +66,7 @@ function ProductPage() {
             <h2>{product.name}</h2>
             <p>{product.description}</p>
             <p>Price: {product.price}</p>
-            <button>Purchase Now</button>
+            <button>Add to cart</button>
           </div>
         ))}
       </div>
